@@ -1,8 +1,8 @@
 # Presentation For Python For Water Resources Engineering
 
-#**LITTLE MANUAL FOR GOOD LEARNING**
+# ** LITTLE MANUAL FOR GOOD LEARNING **
 
-**The Essentials of Good LEARNING**
+** The Essentials of Good Learning **
 
 - Good mood and a feeling of security
 - Concentration
