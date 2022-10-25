@@ -1,6 +1,8 @@
 # Presentation For Python For Water Resources Engineering
 
 # **LITTLE MANUAL FOR GOOD LEARNING**
+![Girl_Learning](https://miro.medium.com/max/720/0*AVMjrdtoykGNsksd.jpg)
+
 
 ## **The essentials of good learning**
 
