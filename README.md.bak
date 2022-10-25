@@ -2,6 +2,7 @@
 
 # **LITTLE MANUAL FOR GOOD LEARNING**
 ![Girl_Learning](https://miro.medium.com/max/720/0*AVMjrdtoykGNsksd.jpg)
+Image Source: [Medium.com](https://medium.com/@braydenfox/10-tips-for-creating-your-perfect-learning-environment-a52a9e45be6f)
 
 
 ## **The essentials of good learning**
@@ -26,5 +27,25 @@ The tips for learning in the folowing outline show how you can achieve the essen
 - Learning is extremely tiresome, loss of motivation
 
 ![Chart](/To_stay_on_task.png) 
+
+## Learning phases and breaks
+
+In order to maintain good concentration, we need to make breaks regularly and appreciate our successes 
+
+![Timeline](/Learning_Phases.png)
+
+
+**Learning objective achieved:**
+- Enjoy **Success**
+- Define objective for the next learning phase
+
+Good learning concentration span is maximum 6 hours a day realistically.
+
+
+
+
+Source: Ina Skalbergs @ ![Learning Advice University of Stuttgart](https://www.student.uni-stuttgart.de/en/additional-education/learning-advice/)
+
+
 
 
