@@ -1,7 +1,16 @@
-# PythonWater
-# Python Water Repository for class
-# This is the first readme file for the Python water class, Change made by Salman
-# Glad to be here. Change made by Talhaä
-# Good to be here in Python class. - Jayaram
+# Presentation For Python For Water Resources Engineering
+
+#**LITTLE MANUAL FOR GOOD LEARNING**
+
+**The Essentials of Good LEARNING**
+
+- Good mood and a feeling of security
+- Concentration
+- Structure
+
+The tips for learning in the folowing outline show how you can achieve the essentials of good learning and adopt an efficient way of learning.
+
+
+
 
 
