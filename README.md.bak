@@ -2,6 +2,7 @@
 
 # **LITTLE MANUAL FOR GOOD LEARNING**
 ![Girl_Learning](https://miro.medium.com/max/720/0*AVMjrdtoykGNsksd.jpg)
+
 Image Source: [Medium.com](https://medium.com/@braydenfox/10-tips-for-creating-your-perfect-learning-environment-a52a9e45be6f)
 
 
@@ -44,7 +45,7 @@ Good learning concentration span is maximum 6 hours a day realistically.
 
 
 
-Source: Ina Skalbergs @ ![Learning Advice University of Stuttgart](https://www.student.uni-stuttgart.de/en/additional-education/learning-advice/)
+Source: Ina Skalbergs @ [Learning Advice University of Stuttgart](https://www.student.uni-stuttgart.de/en/additional-education/learning-advice/)
 
 
 

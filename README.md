@@ -43,7 +43,7 @@ In order to maintain good concentration, we need to make breaks regularly and ap
 Good learning concentration span is maximum 6 hours a day realistically.
 
 
-
+***
 
 Source: Ina Skalbergs @ [Learning Advice University of Stuttgart](https://www.student.uni-stuttgart.de/en/additional-education/learning-advice/)
 
